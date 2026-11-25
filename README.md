@@ -6,7 +6,7 @@ An animated ASCII winter night featuring swaying pine trees, falling snow, twink
 
 ## How to Install
 1. Download and install **[Lively Wallpaper](https://rocksdanister.com)**.
-2. Download `winter_night.zip` from the **[Latest Release](https://github.com)** page.
+2. Download `winter_night.zip` from the **[Latest Release]([https://github.com](https://github.com/swisherr182/winter-night-lively-wallpaper/releases/tag/v1.0))** page.
 3. Drag and drop the downloaded `.zip` file directly into your Lively Wallpaper window.
 
 ## Credits
