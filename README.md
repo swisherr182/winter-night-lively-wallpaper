@@ -10,5 +10,5 @@ An animated ASCII winter night featuring swaying pine trees, falling snow, twink
 3. Drag and drop the downloaded `.zip` file directly into your Lively Wallpaper window.
 
 ## Credits
-- **Created by:** [swisherr182](https://github.com) (Made with Python)
+- **Created by:** [swisherr182](https://github.com/swisherr182) (Made with Python)
 - **Inspired by:** `@meatballsammichh` on TikTok
